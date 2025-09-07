@@ -49,7 +49,7 @@ Performance was evaluated using **Root Mean Squared Logarithmic Error (RMSLE)**.
 
 ## 🚀 Future Improvements
 - Out-of-Fold (OOF) stacking with LightGBM, CatBoost, and Ridge Regression.  
-- Advanced feature interactions (`Credit Score × Previous Claims`, `Income × Vehicle Age`).  
+- Advanced feature interactions.
 - Better handling of extreme premiums in long-tail distribution.  
 
 ---
